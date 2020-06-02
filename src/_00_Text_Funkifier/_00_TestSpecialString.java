@@ -23,7 +23,7 @@ public class _00_TestSpecialString {
 		assertEquals("tset a si sihT", bs.toString());
 	}
 	
-	//3. Fill in the funkifyTxt method in the MixedCapsString class
+	//3. Fill in the funkifyText method in the MixedCapsString class
 	//   to make the JUnitTest case pass.
 	@Test
 	public void testMixedCapsString() {
