@@ -1,5 +1,11 @@
 package _01_AnimalFarm;
 
-public class Animal {
+public abstract class Animal {
 
+	String name;
+	Animal(String name){
+		this.name = name;
+	}
+	abstract void printName();
+	abstract void makeNoise();
 }
