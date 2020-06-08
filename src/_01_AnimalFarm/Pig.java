@@ -7,7 +7,7 @@ public class Pig extends Animal {
 	}
 	
 	void makeNoise() {
-		System.out.println("MOO!");
+		System.out.println("OINK!");
 	}
 	
 	void printName() {

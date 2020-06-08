@@ -7,7 +7,7 @@ public class Sheep extends Animal {
 	}
 	
 	void makeNoise() {
-		System.out.println("MOO!");
+		System.out.println("BAAAA!");
 	}
 	
 	void printName() {
